@@ -1,0 +1,15 @@
+---
+title: "categories-bug"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, categories]
+page-layout: full
+title-block-banner: true
+---
+
+
